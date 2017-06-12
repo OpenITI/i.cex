@@ -1,0 +1,13 @@
+# OpenITI - CEX Implementation (Maxim Romanov)
+
+#!cexversion
+
+#!ctscatalog
+
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online
+urn:cts:arabLit:0346Istakhri.MasalikWaMamalik.JK010472-ara1#book/milestone#0346Istakhri#MasalikWaMamalik#JK010472-ara1#true
+
+
+#!ctsdata
+
+urn:cts:arabLit:0346Istakhri.MasalikWaMamalik.JK010472-ara1:ms1#(@)(@)(@)(@@)(@@)(@@)(@@)(@@)(@@)(@@)(@@) BEGofRECORD (@@)(@@)(@@)(@@)(@)(@)(@@)META(@@) 000.SortField	:: JK_010472(@)(@@)META(@@) 000.BookURI	:: (@@)0346.Istakhri.MasalikWaMamalik(@)(@@)META(@@) 010.AuthorAKA	:: الإصطخري(@)(@@)META(@@) 010.AuthorNAME	:: أبو اسحاق إبراهيم بن محمد الفارسي الاصطخري ، المعروف بالكرخي (المتوفى : 346هـ)(@)(@@)META(@@) 011.AuthorBORN	:: NOTGIVEN(@)(@@)META(@@) 011.AuthorDIED	:: 346(@)(@@)META(@@) 019.AuthorDIED	:: NODATA(@)(@@)META(@@) 020.BookTITLE	:: المسالك والممالك(@)(@@)META(@@) 020.BookTITLESUB	:: NODATA(@)(@@)META(@@) 021.BookSUBJ	:: الرحلات والمذكرات :: كتب التاريخ(@)(@@)META(@@) 022.BookVOLS	:: NODATA(@)(@@)META(@@) 025.BookLANG	:: NODATA(@)(@@)META(@@) 029.BookTITLEalt	:: المسالك والممالك(@)(@@)META(@@) 030.LibURI	:: JK_010472(@)(@@)META(@@) 030.LibURIextra	:: NODATA(@)(@@)META(@@) 031.LibREADONLINE	:: NODATA(@)(@@)META(@@) 031.LibURL	:: NODATA(@)(@@)META(@@) 031.LibURLFILE	:: NODATA(@)(@@)META(@@) 031.LibURLextra	:: NODATA(@)(@@)META(@@) 040.EdALL	:: NODATA(@)(@@)META(@@) 040.EdEDITOR	:: NODATA(@)(@@)META(@@) 041.EdNUMBER	:: NODATA(@)(@@)META(@@) 041.EdNumber	:: NODATA(@)(@@)META(@@) 043.EdPUBLISHER	:: NODATA(@)(@@)META(@@) 044.EdPLACE	:: NODATA(@)(@@)META(@@) 045.EdYEAR	:: NODATA(@)(@@)META(@@) 049.EdISBN	:: NODATA(@)(@@)META(@@) 049.EdPAGES	:: NODATA(@)(@@)META(@@) 049.EdPHYSICAL	:: NODATA(@)(@@)META(@@) 049.EdVOLUME	:: NODATA(@)(@@)META(@@) 090.RecMISC	:: NODATA(@)(@@)META(@@) 999.MiscINFO	:: NODATA(@)(@)(@)(@)
